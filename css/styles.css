@@ -55,83 +55,83 @@ a {
   background-color: #2e2f42;
 }
 .title {
-    font-size: 56px;
-    line-height: 1.07143;
-    letter-spacing: 0.02em;
-    color: #fff;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  color: #fff;
 }
-.text-button-box{
-    background-color: #2e2f42;
+.text-button-box {
+  background-color: #2e2f42;
 }
 .order-button {
-        background-color: #4d5ae5;
+  cursor: pointer;
+  background-color: #4d5ae5;
 }
 .order-button:hover,
-.order-button:focus{
-    background: #404bbf
+.order-button:focus {
+  background: #404bbf;
 }
 .benefits-list h3 {
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .benefits-list p {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .team-text {
-        font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.team-item h3{
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+.team-item h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.team-item{
-    border-radius: 0 0 4px 4px;
-        padding: 0px 0px 32px 0px;
-        width: 264px;
-        height: 380px;
-        background-color: #fff;;
+.team-item {
+  border-radius: 0 0 4px 4px;
+  padding: 0px 0px 32px 0px;
+  width: 264px;
+  height: 380px;
+  background-color: #fff;
 }
-.team-item p{
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+.team-item p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-.our-team-box{
-    background-color: #f4f4fd;
+.our-team-box {
+  background-color: #f4f4fd;
 }
-.portfolio-text{
-
-        font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+.portfolio-text {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.portfolio-item h3{
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+.portfolio-item h3 {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.portfolio-item p{
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+.portfolio-item p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-.page-footer p{
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
+.page-footer p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
