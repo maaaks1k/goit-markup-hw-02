@@ -76,14 +76,14 @@ a {
 .order-button:focus {
   background: #404bbf;
 }
-.benefits-list h3 {
+.benefits-h3 {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.benefits-list p {
+.benefits-p{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -91,14 +91,15 @@ a {
 }
 .team-text {
   font-size: 36px;
+  text-align: center; 
+  text-transform: capitalize;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-item h3 {
+.team-h3 {
+  font-weight: 500;
   font-size: 20px;
-  text-align: center;
-  text-transform: capitalize;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -106,7 +107,7 @@ a {
 .team-item {
   background-color: #fff;
 }
-.team-item p {
+.team-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -123,19 +124,20 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-item h3 {
+.portfolio-h3 {
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-item p {
+.portfolio-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.page-footer p {
+.footer-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
